@@ -1,6 +1,6 @@
 # Class Activity
  
-In the test repository we made last class (or fork this one) open up the README.md and edit it. (You edit with the little pencil icon to the right) 
+In the test repository we made last class open up the README.md and edit it. (You edit with the little pencil icon to the right) 
 
 Working with your classmates in your breakout rooms, and referencing my slides for today, do the following three things:
 
