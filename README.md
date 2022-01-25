@@ -2,6 +2,7 @@
 
 This is a repository that contains various random materials for my DATA 2401 class at University of Houston - Downtown. 
 
+## A sub heading
 
 Text here. I want it to be *italic* or **bolded**
 
@@ -9,6 +10,10 @@ Text here. I want it to be *italic* or **bolded**
 - more things
   + sublist 
   
+### A subsubheading 
+
+Just some normal text here. 
+
 1. Numbered list
 2. of things
 
