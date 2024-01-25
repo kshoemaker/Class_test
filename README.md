@@ -6,7 +6,7 @@ This is a repository that contains various random materials for my DATA 2401 cla
 
 Text here. I want it to be *italic* or **bolded**
 
-- items in a list
+- items in a *list*
 - more things
   + sublist 
   
@@ -17,6 +17,6 @@ Just some normal text here.
 1. Numbered list
 2. of things
 
-[link to google](www.google.com)
+[link to google](https:\\www.google.com)
 
 
